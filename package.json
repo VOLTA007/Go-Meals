@@ -12,8 +12,8 @@
     "mongodb": "^6.9.0",
     "mongoose": "^8.7.1",
     "next": "^15.0.0-rc.1",
-    "react": "^18",
-    "react-dom": "^19.0.0-rc-77b637d6-20241016"
+    "react": "^19.0.0-rc",
+    "react-dom": "^19.0.0-rc"
   },
   "devDependencies": {
     "@types/node": "^20",
